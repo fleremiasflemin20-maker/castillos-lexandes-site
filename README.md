@@ -3,6 +3,7 @@
 Landing estática del CRM jurídico de **Castillos y Asociados** (Bogotá D.C.), construida con LexAndes.
 
 - Sitio: <https://fleremiasflemin20-maker.github.io/castillos-lexandes-site/>
+- Video: <https://fleremiasflemin20-maker.github.io/castillos-lexandes-site/video.mp4>
 - Demo en vivo: <https://regional-tire-doug-gel.trycloudflare.com>
 - Producto (repositorio privado): <https://github.com/fleremiasflemin20-maker/lexandes-crm>
 
